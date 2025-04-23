@@ -1,0 +1,215 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Eduverify\\EduVerify\\backend\\contracts\\EduVerify.sol": {
+      "lastModificationDate": 1744915890993,
+      "contentHash": "1bb07deba97bf38ad6d7427b915a6dd6",
+      "sourceName": "contracts/EduVerify.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "EduVerify"
+      ]
+    },
+    "D:\\Eduverify\\EduVerify\\backend\\contracts\\CredentialRevocation.sol": {
+      "lastModificationDate": 1744916412795,
+      "contentHash": "268b73ff80e10f001c5c4528f20d2516",
+      "sourceName": "contracts/CredentialRevocation.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "CredentialRevocation"
+      ]
+    },
+    "D:\\Eduverify\\EduVerify\\backend\\contracts\\CredentialVerificationRequest.sol": {
+      "lastModificationDate": 1744917406474,
+      "contentHash": "4af5fed02da929b1bee24c1bed8b3f26",
+      "sourceName": "contracts/CredentialVerificationRequest.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "CredentialVerificationRequest"
+      ]
+    },
+    "D:\\Eduverify\\EduVerify\\backend\\contracts\\StudentProfile.sol": {
+      "lastModificationDate": 1744917383561,
+      "contentHash": "66cc67f473cbacf5a60bef1cf1561ea8",
+      "sourceName": "contracts/StudentProfile.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "StudentProfile"
+      ]
+    },
+    "D:\\Eduverify\\EduVerify\\backend\\contracts\\AccessControlManager.sol": {
+      "lastModificationDate": 1745295392093,
+      "contentHash": "429020490bc9f8ed19124cdb8b267475",
+      "sourceName": "contracts/AccessControlManager.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AccessControlManager"
+      ]
+    },
+    "D:\\Eduverify\\EduVerify\\backend\\contracts\\InstitutionRegistry.sol": {
+      "lastModificationDate": 1745295371014,
+      "contentHash": "b27da8102a2c9cabf262978929a345b4",
+      "sourceName": "contracts/InstitutionRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "InstitutionRegistry"
+      ]
+    }
+  }
+}
